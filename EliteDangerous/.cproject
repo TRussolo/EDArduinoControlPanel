@@ -22,8 +22,6 @@
 									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/EliteDangerous/core/core}&quot;"/>
 									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/EliteDangerous/core/variant}&quot;"/>
 									<listOptionValue builtIn="false" value="C:/Projetos/eclipse/arduinoPlugin/examples/09.USB/KeyboardAndMouseControl"/>
-									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/EliteDangerous/libraries/Keyboard/src}&quot;"/>
-									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/EliteDangerous/libraries/Mouse/src}&quot;"/>
 									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/EliteDangerous/libraries/HID/src}&quot;"/>
 								</option>
 								<inputType id="io.sloeber.compiler.cpp.sketch.input.515901320" name="CPP source files" superClass="io.sloeber.compiler.cpp.sketch.input"/>
@@ -33,8 +31,6 @@
 									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/EliteDangerous/core/core}&quot;"/>
 									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/EliteDangerous/core/variant}&quot;"/>
 									<listOptionValue builtIn="false" value="C:/Projetos/eclipse/arduinoPlugin/examples/09.USB/KeyboardAndMouseControl"/>
-									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/EliteDangerous/libraries/Keyboard/src}&quot;"/>
-									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/EliteDangerous/libraries/Mouse/src}&quot;"/>
 									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/EliteDangerous/libraries/HID/src}&quot;"/>
 								</option>
 								<inputType id="io.sloeber.compiler.c.sketch.input.1350641077" name="C Source Files" superClass="io.sloeber.compiler.c.sketch.input"/>
@@ -44,8 +40,6 @@
 									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/EliteDangerous/core/core}&quot;"/>
 									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/EliteDangerous/core/variant}&quot;"/>
 									<listOptionValue builtIn="false" value="C:/Projetos/eclipse/arduinoPlugin/examples/09.USB/KeyboardAndMouseControl"/>
-									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/EliteDangerous/libraries/Keyboard/src}&quot;"/>
-									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/EliteDangerous/libraries/Mouse/src}&quot;"/>
 									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/EliteDangerous/libraries/HID/src}&quot;"/>
 								</option>
 								<inputType id="io.sloeber.compiler.S.sketch.input.1165059957" name="Assembly source files" superClass="io.sloeber.compiler.S.sketch.input"/>
@@ -57,7 +51,7 @@
 						</toolChain>
 					</folderInfo>
 					<sourceEntries>
-						<entry excluding="libraries/?*/**/?xamples/**|libraries/?*/**/?xtras/**|libraries/?*/**/test*/**|libraries/?*/**/third-party/**|libraries/**/._*|libraries/?*/utility/*/*" flags="VALUE_WORKSPACE_PATH" kind="sourcePath" name=""/>
+						<entry excluding="libraries/?*/**/test*/**|libraries/?*/**/third-party/**|libraries/?*/utility/*/*|libraries/?*/**/?xamples/**|libraries/?*/**/?xtras/**|libraries/**/._*" flags="VALUE_WORKSPACE_PATH" kind="sourcePath" name=""/>
 					</sourceEntries>
 				</configuration>
 			</storageModule>
@@ -71,4 +65,6 @@
 		<autodiscovery enabled="true" problemReportingEnabled="true" selectedProfileId=""/>
 	</storageModule>
 	<storageModule moduleId="org.eclipse.cdt.core.LanguageSettingsProviders"/>
+	<storageModule moduleId="refreshScope"/>
+	<storageModule moduleId="org.eclipse.cdt.make.core.buildtargets"/>
 </cproject>

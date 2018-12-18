@@ -1,6 +1,6 @@
 //#include "HID.h"  //uncomment for arduino due
 //note that for the due the hid controller only works through the native port
-#include "Joystick.h"
+#include "../../../../libraries/Joystick/Joystick.h"
 
 void setup() {
   //zero out the joystick state

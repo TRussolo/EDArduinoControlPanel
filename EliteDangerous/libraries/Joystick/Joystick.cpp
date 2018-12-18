@@ -1,4 +1,4 @@
-#include "joystick.h"
+#include "../Joystick/Joystick.h"
 
 #if defined(_USING_HID)
 

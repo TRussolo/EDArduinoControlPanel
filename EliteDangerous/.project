@@ -51,15 +51,5 @@
 			<type>2</type>
 			<locationURI>ECLIPSE_HOME/arduinoPlugin/packages/arduino/hardware/sam/1.6.11/libraries/HID</locationURI>
 		</link>
-		<link>
-			<name>libraries/Keyboard</name>
-			<type>2</type>
-			<locationURI>ECLIPSE_HOME/arduinoPlugin/libraries/Keyboard/1.0.2</locationURI>
-		</link>
-		<link>
-			<name>libraries/Mouse</name>
-			<type>2</type>
-			<locationURI>ECLIPSE_HOME/arduinoPlugin/libraries/Mouse/1.0.1</locationURI>
-		</link>
 	</linkedResources>
 </projectDescription>
